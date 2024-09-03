@@ -1,0 +1,14 @@
+{
+    "name": "@alura/tsconfig-commons",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "lint": "echo \"Not Nescessary\""
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "files": [
+        "base.json"
+    ]
+}

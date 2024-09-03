@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HomeScreen /> renders the page 1`] = `
+<div>
+  <h1
+    class="sc-blHHSb iPvGx"
+  >
+    Olá Mundo
+  </h1>
+  <p
+    class="sc-blHHSb iPvGx"
+  >
+    2 + 2 = 
+    4
+  </p>
+</div>
+`;

@@ -1,0 +1,21 @@
+{
+    "name": "@alura/design-system",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "jest",
+        "lint": "eslint \"./**/*.{ts,tsx}\""
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "styled-components": "^6.1.13"
+    },
+    "devDependencies": {
+        "@alura/eslint-commons": "*",
+        "@alura/test-commons": "*",
+        "@alura/tsconfig-commons": "*",
+        "jest-environment-jsdom": "^29.7.0"
+    }
+}
